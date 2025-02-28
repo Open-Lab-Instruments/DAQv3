@@ -27,6 +27,12 @@ A Dual-Channel, Low Noise, Modular, 100 kHz Bandwidth, 24-Bit Data Acquisition (
 
 Work in progress ...
 
+# Rack
++ [Card Rail](https://it.rs-online.com/web/p/montanti-rack/2457848)
++ [Front Pannel Large](https://it.rs-online.com/web/p/accessori-per-contenitori/2879769)
++ [Front Pannel Small](https://us.rs-online.com/product/nvent-schroff/20848664/70294016/)
++ [Case](https://it.rs-online.com/web/p/contenitori-e-scatole-rack/2550700?searchId=d65bfb2c-882b-444f-99ba-9c0d112e01d9&gb=s)
++ [IEC Connector](https://it.rs-online.com/web/p/filtri-iec/8703669)
 
 # CAD Model
 
